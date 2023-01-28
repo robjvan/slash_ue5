@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/src/Slash/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/src/Slash/Content/Maps/SlashOpenWorld_HLODLayer_Instanced.uasset",
+				"C:/src/Slash/Content/Maps/SlashOpenWorld_HLODLayer_Merged.uasset",
+				"C:/src/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/F/50/E32K80QIJKA33SEH12OVJX.uasset",
+				"C:/src/Slash/Content/__ExternalActors__/Maps/SlashOpenWorld/7/EE/KBPBZUO0TB2KHVSMYPDLVZ.uasset",
+				"C:/src/Slash/Content/Maps/SlashOpenWorld.umap",
+				"C:/src/Slash/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+			]
+		}
+	]
+}
